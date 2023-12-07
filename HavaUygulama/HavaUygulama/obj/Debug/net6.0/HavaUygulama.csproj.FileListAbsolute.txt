@@ -1,0 +1,17 @@
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\bin\Debug\net6.0\HavaUygulama.exe
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\bin\Debug\net6.0\HavaUygulama.deps.json
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\bin\Debug\net6.0\HavaUygulama.runtimeconfig.json
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\bin\Debug\net6.0\HavaUygulama.dll
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\bin\Debug\net6.0\HavaUygulama.pdb
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\obj\Debug\net6.0\HavaUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\obj\Debug\net6.0\HavaUygulama.AssemblyInfoInputs.cache
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\obj\Debug\net6.0\HavaUygulama.AssemblyInfo.cs
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\obj\Debug\net6.0\HavaUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\obj\Debug\net6.0\HavaUygulama.dll
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\obj\Debug\net6.0\refint\HavaUygulama.dll
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\obj\Debug\net6.0\HavaUygulama.pdb
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\obj\Debug\net6.0\HavaUygulama.genruntimeconfig.cache
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\obj\Debug\net6.0\ref\HavaUygulama.dll
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\obj\Debug\net6.0\HavaUygulama.csproj.AssemblyReference.cache
+C:\Users\Tuna\Desktop\odev1\HavaUygulama\HavaUygulama\obj\Debug\net6.0\HavaUygulama.csproj.CopyComplete
